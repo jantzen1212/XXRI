@@ -1,4 +1,4 @@
-**XXRI OS LITE**
+**XXRI**
 
 **XXRI** is an independent technology project whose goal is to create light, efficient, and affordable software solutions for a wide range of computing platforms. With a philosophy of minimalism and accessibility, xxri seeks to produce tools that are not only frugal in terms of their use but also easy to use even for those with little technical knowledge or older hardware.
 
