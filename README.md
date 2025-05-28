@@ -1,7 +1,23 @@
-**XXRI**
+### 🌿 XXRI OS Lite – Lightweight, Fast, and Minimal
 
-**XXRI** is an independent technology project whose goal is to create light, efficient, and affordable software solutions for a wide range of computing platforms. With a philosophy of minimalism and accessibility, xxri seeks to produce tools that are not only frugal in terms of their use but also easy to use even for those with little technical knowledge or older hardware.
+**XXRI OS Lite** is the most lightweight edition of the xxri OS series, designed for low-spec machines, older hardware, or users who prefer a clean and ultra-efficient system. it includes only essential components to deliver speed, simplicity, and stability — without unnecessary bloat.
 
-At its core, xxri believes that technology should be empowering, and never over-whelming. By eliminating redundancies and keeping it simple, yet still providing the functionality that counts, xxri enables individuals to do more from their systems without sacrificing performance and ease of use. From customized operating systems to applications at expert-level, xxri offers solutions that are grounded on the principles of open-source, optimization for performance, and design.
+#### ⚡ Key Features:
 
-xxri also allows a vision for digital sustainability, with more reuse of outdated devices and more responsible computing. By collaborating, innovating, and keeping things simple, xxri strives to make technology accessible, efficient, and sustainable to everyone.
+* Super lightweight ISO (263MB)
+* Fast boot and low memory footprint
+* Clean, minimal user interface
+* Pre-installed basic tools: file manager, text editor, terminal, and more
+* Perfect for reviving old PCs or running in lightweight virtual environments
+
+#### 🖥️ Minimum System Requirements:
+
+* **CPU:** Intel Pentium II / AMD K6-2 or newer (32-bit)
+* **RAM:** 256 MB minimum
+* **Storage:** 400 MB free disk space 
+
+**Website:** xxri.is-a.dev
+**Maintained by:** xxri OS Team
+
+---
+
