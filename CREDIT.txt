@@ -1,0 +1,65 @@
+XXRI OS LITE Appearance Credits
+
+This system uses third-party visual assets (themes and icons) to enhance user experience.
+All visual credit belongs to the original creators, as listed below.
+
+-----------------------------------------------------
+🎨 Icon Theme
+Name       : Candy Icons  
+Original Author : Eliver Lara  
+Source     : https://www.pling.com/p/1290886/
+License    : GNU General Public License (GPL)
+
+Note: The icon theme folder has been renamed to "XXRI ICONS" for internal use. No modifications were made to the theme contents.
+
+-----------------------------------------------------
+🖼️ GTK Theme
+Name       : Otis GTK Theme  
+Original Author : vinceliuice  
+Source     : https://www.pling.com/p/1234567/ (please update this if you have the real link)
+License    : GNU General Public License (GPL)
+
+Note: The icon theme folder has been renamed to "XXRI THEMES" for internal use. No modifications were made to the theme contents.
+
+-----------------------------------------------------
+🧩 Application Icons (Flaticon)
+
+The following application icons were downloaded from Flaticon (https://www.flaticon.com) and are used under their free license with attribution:
+
+1. **Power Icon**
+   - URL: https://www.flaticon.com/free-icon/power_8205482
+   - Author: Mayor Icons ( get from Flaticon )
+
+2. **Notepad Icon**
+   - URL: https://www.flaticon.com/free-icon/note_9815458
+   - Author: logisstudio ( get from Flaticon )
+
+3. **Settings / Gear Icon**
+   - URL: https://www.flaticon.com/free-icon/settings_2698011
+   - Author: Freepik ( get from Flaticon )
+
+4. **App Store Icon**
+   - URL: https://www.flaticon.com/free-icon/app-store_10827236
+   - Author: Dragon Icons ( get from Flaticon )
+
+5. **Running / App Launcher Icon**
+   - URL: https://www.flaticon.com/free-icon/running_9233256
+   - Author: Mayor Icons ( get from Flaticon )
+
+6. **Terminal Icon**
+   - URL: https://www.flaticon.com/free-icon/terminal_11463106
+   - Author: Grand Iconic ( get from Flaticon )
+
+7. **Video Player Icon**
+   - URL: https://www.flaticon.com/free-icon/video-player_6187433
+   - Author: apien ( get from Flaticon )
+
+8. **[Other Icons]**
+   - Some application icons used in xxri OS are from Flaticon but their exact source could not be identified. If you recognize any, please contact the xxri OS team so we can update credits accordingly.
+
+-----------------------------------------------------
+Maintained & Packaged by:
+xxri OS 
+
+https://xxri.is-a.dev
+dev.xxri@gmail.com
