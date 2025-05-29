@@ -3,6 +3,14 @@ XXRI OS LITE Appearance Credits
 This system uses third-party visual assets (themes and icons) to enhance user experience.
 All visual credit belongs to the original creators, as listed below.
 
+
+-----------------------------------------------------
+OS Source
+Name       : Tiny core os 
+Original Author : Robert Shingledecker 
+Source     : https://www.tinycorelinux.net
+License    : GNU General Public License (GPL)
+
 -----------------------------------------------------
 🎨 Icon Theme
 Name       : Candy Icons  
