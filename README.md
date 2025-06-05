@@ -16,7 +16,7 @@
 * **RAM:** 256 MB minimum
 * **Storage:** 400 MB free disk space 
 
-**Website:** xxri.is-a.dev
+**Website:** xxri.rf.gd
 **Maintained by:** xxri OS Team
 
 ---
